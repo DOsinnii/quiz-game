@@ -1,0 +1,268 @@
+{
+  "questions": [
+    {
+      "problem": "Oberon is the satellite of which planet?",
+      "score": "500",
+      "answers": [
+        {
+          "item": "Mercury",
+          "correct": false
+        },
+        {
+          "item": "Neptune",
+          "correct": false
+        },
+        {
+          "item": "Uranus",
+          "correct": true
+        },
+        {
+          "item": "Mars",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "Which Disney character famously leaves a glass slipper behind at a royal ball?",
+      "score":  "1000",
+      "answers": [
+        {
+          "item": "Pocahontas",
+          "correct": false
+        },
+        {
+          "item": "Sleeping Beauty",
+          "correct": false
+        },
+        {
+          "item": "Cinderella",
+          "correct": true
+        },
+        {
+          "item": "Elsa",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "In the UK, the abbreviation NHS stands for National what Service?",
+      "score":  "2000",
+      "answers": [
+        {
+          "item": "Humanity",
+          "correct": false
+        },
+        {
+          "item": "Health",
+          "correct": true
+        },
+        {
+          "item": "Honour",
+          "correct": false
+        },
+        {
+          "item": "Household",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "What name is given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim?",
+      "score":  "4000",
+      "answers": [
+        {
+          "item": "Hangar",
+          "correct": false
+        },
+        {
+          "item": "Terminal",
+          "correct": false
+        },
+        {
+          "item": "Concourse",
+          "correct": false
+        },
+        {
+          "item": "Carousel",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "problem": "The hammer and sickle is one of the most recognisable symbols of which political ideology?",
+      "score":  "8000",
+      "answers": [
+        {
+          "item": "Republicanism",
+          "correct": false
+        },
+        {
+          "item": "Communism",
+          "correct": true
+        },
+        {
+          "item": "Conservatism",
+          "correct": false
+        },
+        {
+          "item": "Liberalism",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "Which of these religious observances lasts for the shortest period of time during the calendar year?",
+      "score":  "16000",
+      "answers": [
+        {
+          "item": "Ramadan",
+          "correct": false
+        },
+        {
+          "item": "Diwali",
+          "correct": true
+        },
+        {
+          "item": "Lent",
+          "correct": false
+        },
+        {
+          "item": "Hanukkah",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "Which of these cetaceans is classified as a “toothed whale”?",
+      "score":  "32000",
+      "answers": [
+        {
+          "item": "Gray whale",
+          "correct": false
+        },
+        {
+          "item": "Minke whale",
+          "correct": false
+        },
+        {
+          "item": "Sperm whale",
+          "correct": true
+        },
+        {
+          "item": "Humpback whale",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "Tomas Masaryk was the first president of which country?",
+      "score":  "64000",
+      "answers": [
+        {
+          "item": "Czechoslovakia",
+          "correct": true
+        },
+        {
+          "item": "Poland",
+          "correct": false
+        },
+        {
+          "item": "Hungary",
+          "correct": false
+        },
+        {
+          "item": "Yugoslavia",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "A number one followed by one hundred zeros is known by what name?",
+      "score":  "125000",
+      "answers": [
+        {
+          "item": "Googol",
+          "correct": true
+        },
+        {
+          "item": "Megtron",
+          "correct": false
+        },
+        {
+          "item": "Gigabit",
+          "correct": false
+        },
+        {
+          "item": "Nanomole",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "Which scientific unit is named after an Italian nobleman?",
+      "score":  "250000",
+      "answers": [
+        {
+          "item": "Pascal",
+          "correct": false
+        },
+        {
+          "item": "Ohm",
+          "correct": false
+        },
+        {
+          "item": "Volt",
+          "correct": true
+        },
+        {
+          "item": "Hertz",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "problem": "Which of these is a butterfly, not a moth?",
+      "score":  "500000",
+      "answers": [
+        {
+          "item": "Mother Shipton",
+          "correct": false
+        },
+        {
+          "item": "Red Underwing",
+          "correct": false
+        },
+        {
+          "item": "Burnished Brass",
+          "correct": false
+        },
+        {
+          "item": "Speckled Wood ",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "problem": "Who was the first man to travel into space twice?",
+      "score":  "1000000",
+      "answers": [
+        {
+          "item": "Vladimir Titov",
+          "correct": false
+        },
+        {
+          "item": "Michael Collins",
+          "correct": false
+        },
+        {
+          "item": "Gus Grissom",
+          "correct": true
+        },
+        {
+          "item": "Yuri Gagarin",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
